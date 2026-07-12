@@ -83,7 +83,7 @@ copiloto-vendas-fys/
 ├── cloud.md
 │
 └── Prompt/
-    ├── system-prompt.md
+│   ├── system-prompt.md
 │
 └── knowledge/
     ├── contexto-da-marca.md
