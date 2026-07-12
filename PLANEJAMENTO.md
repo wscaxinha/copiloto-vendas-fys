@@ -82,6 +82,9 @@ copiloto-vendas-fys/
 ├── exemplos-de-uso.md
 ├── cloud.md
 │
+└── Prompt/
+    ├── system-prompt.md
+│
 └── knowledge/
     ├── contexto-da-marca.md
     ├── produtos.md
