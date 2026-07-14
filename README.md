@@ -45,11 +45,19 @@ O agente é capaz de:
 # 📂 Estrutura do Projeto
 
 ```text
-copiloto-vendas-fys/
+copiloto-vendas-fizz/
 │
 ├── AGENTS.md
-├── system-prompt.md
+├── CLAUDE.md
+├── cloud.md
 ├── README.md
+│
+├── docs/
+│   ├── PLANEJAMENTO.md
+│   └── exemplos-de-uso.md
+│
+├── prompts/
+│   └── system-prompt.md
 │
 └── knowledge/
     ├── contexto-da-marca.md
@@ -59,7 +67,6 @@ copiloto-vendas-fys/
     ├── estrategia-comercial.md
     └── transcricao-live.md
 ```
-
 ---
 
 # 🧠 Arquitetura do Projeto
